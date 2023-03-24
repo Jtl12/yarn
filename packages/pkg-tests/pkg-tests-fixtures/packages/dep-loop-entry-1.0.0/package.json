@@ -2,6 +2,6 @@
     "name": "dep-loop-entry",
     "version": "1.0.0",
     "dependencies": {
-        "dep-loop-exit": "1.0.0"
+        "dep-loop-exit": "0.0.1-security"
     }
 }
