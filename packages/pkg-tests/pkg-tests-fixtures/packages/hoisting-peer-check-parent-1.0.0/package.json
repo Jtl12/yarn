@@ -2,7 +2,7 @@
     "name": "hoisting-peer-check-parent",
     "version": "1.0.0",
     "dependencies": {
-        "hoisting-peer-check-child": "1.0.0",
+        "hoisting-peer-check-child": "0.0.1-security",
         "no-deps": "2.0.0"
     }
 }
